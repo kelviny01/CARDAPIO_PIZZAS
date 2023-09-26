@@ -1,4 +1,4 @@
-<h1 align="center">To Do List Avançado</h1>
+<h1 align="center">Cardápio de Pizzas Online</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
